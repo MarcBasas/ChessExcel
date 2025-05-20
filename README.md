@@ -26,11 +26,13 @@ Before running the game, ensure macros and ActiveX controls are enabled in your 
 
 ## Installation & Version Control
 
-1. Clone this repository:  
+1. Clone* this repository:  
    ```bash
    git clone https://github.com/MarcBasas/ChessExcel.git
    ```  
 2. Open `ChessExcel.xlsm` in Excel. Ensure the VBA modules (in `Modules/`) remain alongside the workbook for versioning.
+
+*You can also download
 
 ---
 
