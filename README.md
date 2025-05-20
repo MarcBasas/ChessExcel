@@ -32,7 +32,7 @@ Before running the game, ensure macros and ActiveX controls are enabled in your 
    ```  
 2. Open `ChessExcel.xlsm` in Excel. Ensure the VBA modules (in `Modules/`) remain alongside the workbook for versioning.
 
-*You can also download
+*You can also download the .zip of the project
 
 ---
 
