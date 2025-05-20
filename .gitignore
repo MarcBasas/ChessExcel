@@ -1,0 +1,13 @@
+# Ignore Excel temp files
+~$*
+# Ignore user-specific workbook locks
+*.xl?l?b.lock
+# Ignore VB form binaries
+*.frx
+
+# Include the macro-enabled workbook
+!ChessExcel.xlsm
+
+# Include exported VBA modules
+!Modules/*.bas
+!Modules/*.cls
