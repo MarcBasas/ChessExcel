@@ -21,6 +21,10 @@ Before running the game, ensure macros and ActiveX controls are enabled in your 
    - Navigate to **File > Options > Trust Center > Trust Center Settings…**.  
    - In **Trust Center**, go to **ActiveX Settings**.  
    - Select **Enable all controls without restrictions and without prompting**.
+  
+* **If necesary, unblock the file**
+   - Right click on the file > properties
+   - In Security, check que box "Unblock"
 
 ---
 
